@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.pojo.technerds"
-        minSdkVersion 19
+        minSdkVersion 24
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
@@ -58,8 +58,8 @@ dependencies {
     annotationProcessor "androidx.room:room-compiler:$room_version"
 
     //neumorphism
-    def latest_version = "0.3.0"
-    implementation "com.github.fornewid:neumorphism:$latest_version"
+   // def latest_version = "0.3.0"
+   //implementation "com.github.fornewid:neumorphism:$latest_version"
 
 
 

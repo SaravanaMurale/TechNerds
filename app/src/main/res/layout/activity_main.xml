@@ -10,35 +10,4 @@
 
 
 
-
-
-
-    <soup.neumorphism.NeumorphCardView
-        android:layout_width="match_parent"
-        android:layout_height="150dp"
-        style="@style/Widget.Neumorph.CardView"
-        >
-
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-
-            android:text="Hai"/>
-
-
-    </soup.neumorphism.NeumorphCardView>
-
-
-    <soup.neumorphism.NeumorphButton
-        android:layout_width="100dp"
-        android:layout_height="100dp"/>
-
-    <soup.neumorphism.NeumorphTextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="ffffffffffffffffferegegege"
-        android:textSize="30dp"
-        />
-
 </LinearLayout>
